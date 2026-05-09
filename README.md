@@ -75,7 +75,7 @@ functions, lists, loops, and basic encryption.
 admin123
 
 Note: You can change the master password in the code
-by editing the masterPassword variable in Program.cs
+by editing the masterPassword variable in Password Manager.cs
 
 ---
 
